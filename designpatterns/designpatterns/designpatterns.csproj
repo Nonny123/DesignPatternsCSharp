@@ -5,7 +5,7 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Folder Include="DesignPatterns\Strategy\" />
+    <Folder Include="DesignPatternsii\Strategy\" />
     <Folder Include="DesignPrinciples\1. SingleResponsibility\" />
   </ItemGroup>
 

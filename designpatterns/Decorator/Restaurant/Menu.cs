@@ -4,9 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace designpatterns.DesignPatterns.Decorator
+namespace Decorator.Restaurant
 {
-    class RestaurantMenu
+    class Menu
     {
     }
 }

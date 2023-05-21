@@ -4,9 +4,10 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace designpatterns.DesignPatterns.Decorator
+namespace Decorator.ShoppingItem
 {
-    class ShoppingItems
+    interface IShoppingList
     {
+        IEnumerable<IShoppingItem> Items { get; }
     }
 }
