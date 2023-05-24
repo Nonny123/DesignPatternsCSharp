@@ -4,10 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Decorator.ShoppingItem
+namespace Decorator.ShoppingItemDemo
 {
-    interface IShoppingList
+    public class SpecialDiscount
     {
-        IEnumerable<IShoppingItem> Items { get; }
     }
 }
