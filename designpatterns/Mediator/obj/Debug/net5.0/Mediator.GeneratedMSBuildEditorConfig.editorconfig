@@ -6,5 +6,5 @@ build_property.ProjectTypeGuids =
 build_property.PublishSingleFile = 
 build_property.IncludeAllContentForSelfExtract = 
 build_property._SupportedPlatformList = Android,iOS,Linux,macOS,Windows
-build_property.RootNamespace = factory
-build_property.ProjectDir = C:\Users\NONSO\source\repos\DesignPatternsCSharp\designpatterns\factory\
+build_property.RootNamespace = Mediator
+build_property.ProjectDir = C:\Users\NONSO\source\repos\DesignPatternsCSharp\designpatterns\Mediator\
