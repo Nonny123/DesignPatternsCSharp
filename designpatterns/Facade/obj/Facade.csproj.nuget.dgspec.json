@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\NONSO\\source\\repos\\DesignPatternsCSharp\\designpatterns\\factory\\Factory.csproj": {}
+    "C:\\Users\\NONSO\\source\\repos\\DesignPatternsCSharp\\designpatterns\\Facade\\Facade.csproj": {}
   },
   "projects": {
-    "C:\\Users\\NONSO\\source\\repos\\DesignPatternsCSharp\\designpatterns\\factory\\Factory.csproj": {
+    "C:\\Users\\NONSO\\source\\repos\\DesignPatternsCSharp\\designpatterns\\Facade\\Facade.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\NONSO\\source\\repos\\DesignPatternsCSharp\\designpatterns\\factory\\Factory.csproj",
-        "projectName": "Factory",
-        "projectPath": "C:\\Users\\NONSO\\source\\repos\\DesignPatternsCSharp\\designpatterns\\factory\\Factory.csproj",
+        "projectUniqueName": "C:\\Users\\NONSO\\source\\repos\\DesignPatternsCSharp\\designpatterns\\Facade\\Facade.csproj",
+        "projectName": "Facade",
+        "projectPath": "C:\\Users\\NONSO\\source\\repos\\DesignPatternsCSharp\\designpatterns\\Facade\\Facade.csproj",
         "packagesPath": "C:\\Users\\NONSO\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\NONSO\\source\\repos\\DesignPatternsCSharp\\designpatterns\\factory\\obj\\",
+        "outputPath": "C:\\Users\\NONSO\\source\\repos\\DesignPatternsCSharp\\designpatterns\\Facade\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

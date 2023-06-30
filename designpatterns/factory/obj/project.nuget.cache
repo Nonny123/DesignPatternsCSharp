@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "8DZ+OJx7Wypt57ftY4te8GAdt2lNYv0d+GeQyMWh3mM4IIZj2CluzW7idWD525wsGqRmia2g8B12rNDnTwjM/A==",
+  "dgSpecHash": "VIO4Vt7HBU2xG58r97zkgUwHjVF2DwJC8JgU+IJ4oUeMGpjLGkmX5uorTqthAEd2QRZeV7ZmAScPHuvPmN32tA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\NONSO\\source\\repos\\DesignPatternsCSharp\\designpatterns\\factory\\factory.csproj",
+  "projectFilePath": "C:\\Users\\NONSO\\source\\repos\\DesignPatternsCSharp\\designpatterns\\factory\\Factory.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
