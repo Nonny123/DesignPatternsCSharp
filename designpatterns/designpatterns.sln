@@ -29,7 +29,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Adapter", "Adapter\Adapter.
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Mediator", "Mediator\Mediator.csproj", "{24DEFCED-E512-473B-A9F1-FA49D91F95DC}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Visitor pattern", "Visitor pattern\Visitor pattern.csproj", "{DC3DC936-9906-4584-A88E-6B98A0236A1E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Visitor", "Visitor pattern\Visitor.csproj", "{DC3DC936-9906-4584-A88E-6B98A0236A1E}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Bridge", "Bridge\Bridge.csproj", "{E6A58AE4-9AD3-4371-8574-48BFD4503B00}"
 EndProject

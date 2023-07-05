@@ -14,9 +14,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\NONSO\\source\\repos\\DesignPatternsCSharp\\designpatterns\\Visitor pattern\\Visitor pattern.csproj",
-      "projectName": "Visitor pattern",
-      "projectPath": "C:\\Users\\NONSO\\source\\repos\\DesignPatternsCSharp\\designpatterns\\Visitor pattern\\Visitor pattern.csproj",
+      "projectUniqueName": "C:\\Users\\NONSO\\source\\repos\\DesignPatternsCSharp\\designpatterns\\Visitor pattern\\Visitor.csproj",
+      "projectName": "Visitor",
+      "projectPath": "C:\\Users\\NONSO\\source\\repos\\DesignPatternsCSharp\\designpatterns\\Visitor pattern\\Visitor.csproj",
       "packagesPath": "C:\\Users\\NONSO\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\NONSO\\source\\repos\\DesignPatternsCSharp\\designpatterns\\Visitor pattern\\obj\\",
       "projectStyle": "PackageReference",

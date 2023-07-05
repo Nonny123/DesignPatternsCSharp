@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "jE6RCwPK4BBtVeHjlCIkf1GewqDUcZOrh8/K56VJxYdoIna6aZlyMms2Cc4XMTLIIskQ4RoCd+VLFfHgtzbTIA==",
+  "dgSpecHash": "Q3Rma9fLOrHGF3lBA8k6fnv3NSSx0Ach53okpM4r6kgDRSytRIR4CLI5tGw4x7x5kC4Zx0zrslHc9VWhlXQmJw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\NONSO\\source\\repos\\DesignPatternsCSharp\\designpatterns\\Visitor pattern\\Visitor pattern.csproj",
+  "projectFilePath": "C:\\Users\\NONSO\\source\\repos\\DesignPatternsCSharp\\designpatterns\\Visitor pattern\\Visitor.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
